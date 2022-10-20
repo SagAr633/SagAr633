@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <container> 
 <row>
 <col-4></col-4>
-<col-4>https://img.shields.io/github/followers/SagAr633?style=social</col-4>
+<col-4>
+
+https://custom-icon-badges.demolab.com/github/followers/SagAr633?style=social
+custom-icon-badges.demolab.com
+
+</col-4>
 <col-4></col-4>
 </row>
 </container>
