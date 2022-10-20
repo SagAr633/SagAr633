@@ -1,4 +1,4 @@
-### Hi there 👋
+### What is up? 👋
 
 <!--
 **SagAr633/SagAr633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> HELLO </h1>
+
+<container> 
+<row>
+<col-4></col-4>
+<col-4>Hiiii</col-4>
+<col-4></col-4>
+</row>
+</container>
