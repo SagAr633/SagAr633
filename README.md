@@ -29,3 +29,34 @@ https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbru
 <col-4></col-4>
 </row>
 </container>
+
+![stars][1]][1]
+[![open issues][2]][2]
+[![license][3]][3]
+[![build][4]][4]
+[![last commit][5]][5]
+[![total contributions][26]][26]
+
+[![code size][6]][6]
+[![pr closed][7]][7]
+[![tag][8]][8]
+[![rating][9]][9]
+[![github streak][25]][25]
+
+[![followers][10]][10]
+[![stars][11]][11]
+[![fork][12]][12]
+[![watch][13]][13]
+[![downloads social][14]][14]
+
+[![my repos][15]][15]
+[![downloads][16]][16]
+[![phone][17]][17]
+[![email][18]][18]
+[![location][19]][19]
+
+[![open issue][20]][20]
+[![discuss][21]][21]
+[![install package][22]][22]
+[![use template][23]][23]
+[![github action][24]][24]
