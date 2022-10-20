@@ -33,29 +33,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar633&show_icons=true&locale=en" alt="sagar633" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar633&" alt="sagar633" /></p>
-[![last commit][5]][5]
-[![total contributions][26]][26]
 
-[![code size][6]][6]
-[![pr closed][7]][7]
-[![tag][8]][8]
-[![rating][9]][9]
-[![github streak][25]][25]
-
-[![followers][10]][10]
-[![stars][11]][11]
-[![fork][12]][12]
-[![watch][13]][13]
-[![downloads social][14]][14]
-
-[![my repos][15]][15]
-[![downloads][16]][16]
-[![phone][17]][17]
-[![email][18]][18]
-[![location][19]][19]
-
-[![open issue][20]][20]
-[![discuss][21]][21]
-[![install package][22]][22]
-[![use template][23]][23]
-[![github action][24]][24]
